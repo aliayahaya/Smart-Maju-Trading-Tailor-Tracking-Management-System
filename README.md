@@ -47,4 +47,4 @@ Developed as part of the **IMS611: Systems Analysis and Design in Information Ma
 at **Universiti Teknologi MARA (UiTM)** — March 2025 to August 2025.
 
 ## 📜 License
-This project is for educational purposes. Please refer to the LICENSE file for more details.
+This project is for educational purposes only and is not intended for commercial use.
