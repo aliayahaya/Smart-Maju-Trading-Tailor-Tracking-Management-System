@@ -42,9 +42,9 @@ The system also provides **management reports** for performance monitoring and d
 - Integration with inventory and payroll systems
 - Advanced data visualization dashboards
 
-## 📅 Development Timeline
+📅 Development Timeline
 Developed as part of the **IMS611: Systems Analysis and Design in Information Management** course  
 at **Universiti Teknologi MARA (UiTM)** — March 2025 to August 2025.
 
-## 📜 License
+📜 License
 This project is for educational purposes only and is not intended for commercial use.
