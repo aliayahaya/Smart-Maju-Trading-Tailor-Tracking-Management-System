@@ -1,0 +1,94 @@
+/* General page styling */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 40px;
+}
+
+/* Form container */
+form {
+    background-color: #ffffff;
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 30px 40px;
+    border-radius: 10px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+
+/* Heading */
+h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 25px;
+}
+
+/* Labels */
+label {
+    display: block;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #444;
+}
+
+/* Input, select, textarea */
+input[type="text"],
+input[type="date"],
+select,
+textarea {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid #866b0b;
+    border-radius: 6px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    box-sizing: border-box;
+    transition: border-color 0.3s;
+}
+
+input:focus,
+select:focus,
+textarea:focus {
+    border-color: #0e4ef0;
+    outline: none;
+}
+
+/* Submit button */
+button[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    background-color: #d5ce07;
+    color: white;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button[type="submit"]:hover {
+    background-color: #b4ca10;
+}
+
+.footer-wrapper {
+    width: 100%;
+    background-color: black;  /* Or your dark color */
+    color: white;             /* Optional: for text visibility */
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.footer-top,
+.footer-bottom,
+.footer-line {
+    width: 100%;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.footer-line {
+    height: 1px;
+    background-color: #444; /* subtle line */
+    margin: 2rem 0;
+}
