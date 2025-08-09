@@ -11,32 +11,32 @@ The system also provides **management reports** for performance monitoring and d
 - **Secure Authentication**: Login with unique credentials for each user.
 - **Responsive Web Interface**: Accessible on desktop and mobile devices within the company network.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: PHP
 - **Database**: MySQL
 - **Architecture**: Three-tier (Presentation, Application, Data layers)
 
-## 👥 User Roles
-### Admin
+👥 User Roles
+> Admin
 - Manage tailor accounts
 - Create, edit, and delete orders
 - Assign tasks to tailors
 - Generate performance reports
 
-### Tailor
+> Tailor
 - View assigned orders
 - Update task progress
 - Track deadlines and job status
 
-## 📊 System Benefits
+📊 System Benefits
 - Eliminates manual errors and delays
 - Improves workflow efficiency
 - Provides centralized, secure data storage
 - Enhances transparency and accountability
 - Scalable for future features like customer tracking or mobile app integration
 
-## 🚀 Future Enhancements
+🚀 Future Enhancements
 - Customer-facing portal for order tracking
 - Mobile application with push notifications
 - Integration with inventory and payroll systems
